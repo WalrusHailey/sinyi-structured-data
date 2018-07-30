@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+      {
+        "@context":"https://schema.org",
+        "@type":"Corporation",
+        "brand":"信義房屋",
+        "url":"http://www.sinyi.com.tw/",
+        "sameAs": [
+          "信義房屋的Line網址",
+          "信義房屋的Facebook網址",
+          "信義房屋的Youtube網址",
+          "信義房屋的104網址",
+          "信義房屋的App Store下載頁面網址"
+        ],
+        "logo":"信義房屋的LOGO圖檔位址",
+        "contactPoint": [
+        {
+            "@type": "ContactPoint",
+            "telephone": "+886227557666",
+            "contactType": "customer service",
+            "areaServed": "TW"
+          }
+        ]
+      }
+    </script>
