@@ -1,0 +1,1 @@
+# sinyi-structured-data
