@@ -1,0 +1,25 @@
+<script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Corporation",
+    "brand":"信義房屋人才招募網",
+    "url":"https://hr.sinyi.com.tw/",
+    "sameAs": [
+      "http://www.sinyi.com.tw/",
+      "http://living.sinyi.com.tw/",
+      "http://www.facebook.com/sinyifans",
+      "http://www.sinyi.com.cn/",
+      "https://www.sinyi.co.jp/",
+      "https://malaysia.sinyi.com.tw/",
+      "http://www.sinyiglobal.com/"
+    ],
+    "logo":"https://hr.sinyi.com.tw/img/bitmap.png",
+    "contactPoint": [{ 
+      "@type": "ContactPoint",
+      "telephone": "+886-0800-093-688",
+      "contactOption": "TollFree",
+      "contactType": "customer service",
+      "areaServed": "TW"
+    }]
+  }
+</script>
